@@ -1,0 +1,16 @@
+C:\Users\CAL109\source\repos\ConsoleLommeregner\ConsoleLommeregner\bin\Debug\net5.0\ConsoleLommeregner.exe
+C:\Users\CAL109\source\repos\ConsoleLommeregner\ConsoleLommeregner\bin\Debug\net5.0\ConsoleLommeregner.deps.json
+C:\Users\CAL109\source\repos\ConsoleLommeregner\ConsoleLommeregner\bin\Debug\net5.0\ConsoleLommeregner.runtimeconfig.json
+C:\Users\CAL109\source\repos\ConsoleLommeregner\ConsoleLommeregner\bin\Debug\net5.0\ConsoleLommeregner.runtimeconfig.dev.json
+C:\Users\CAL109\source\repos\ConsoleLommeregner\ConsoleLommeregner\bin\Debug\net5.0\ConsoleLommeregner.dll
+C:\Users\CAL109\source\repos\ConsoleLommeregner\ConsoleLommeregner\bin\Debug\net5.0\ConsoleLommeregner.pdb
+C:\Users\CAL109\source\repos\ConsoleLommeregner\ConsoleLommeregner\obj\Debug\net5.0\ConsoleLommeregner.csproj.AssemblyReference.cache
+C:\Users\CAL109\source\repos\ConsoleLommeregner\ConsoleLommeregner\obj\Debug\net5.0\ConsoleLommeregner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CAL109\source\repos\ConsoleLommeregner\ConsoleLommeregner\obj\Debug\net5.0\ConsoleLommeregner.AssemblyInfoInputs.cache
+C:\Users\CAL109\source\repos\ConsoleLommeregner\ConsoleLommeregner\obj\Debug\net5.0\ConsoleLommeregner.AssemblyInfo.cs
+C:\Users\CAL109\source\repos\ConsoleLommeregner\ConsoleLommeregner\obj\Debug\net5.0\ConsoleLommeregner.csproj.CoreCompileInputs.cache
+C:\Users\CAL109\source\repos\ConsoleLommeregner\ConsoleLommeregner\obj\Debug\net5.0\ConsoleLommeregner.dll
+C:\Users\CAL109\source\repos\ConsoleLommeregner\ConsoleLommeregner\obj\Debug\net5.0\refint\ConsoleLommeregner.dll
+C:\Users\CAL109\source\repos\ConsoleLommeregner\ConsoleLommeregner\obj\Debug\net5.0\ConsoleLommeregner.pdb
+C:\Users\CAL109\source\repos\ConsoleLommeregner\ConsoleLommeregner\obj\Debug\net5.0\ConsoleLommeregner.genruntimeconfig.cache
+C:\Users\CAL109\source\repos\ConsoleLommeregner\ConsoleLommeregner\obj\Debug\net5.0\ref\ConsoleLommeregner.dll
